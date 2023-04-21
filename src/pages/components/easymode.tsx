@@ -56,7 +56,10 @@ const handlePlayerChoice = (choice: string) => {
           <FaRegHandScissors className="h-10 w-10" />
         </div>
       </div>
-      <div className="mb-7 mt-10 flex h-full flex-col items-center justify-end">
+
+
+
+      <div className="flex h-[50%] flex-col items-center justify-center">
         <button
           className="mb-1 mr-1 rounded bg-[#ebbcba] px-6 py-3 text-sm font-bold uppercase text-[#191724] shadow outline-none transition-all duration-150 ease-linear hover:shadow-lg focus:outline-none active:bg-[#f6c177]"
           type="button"
