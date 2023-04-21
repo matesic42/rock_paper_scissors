@@ -37,7 +37,7 @@ const handlePlayerChoice = (choice: string) => {
           <h1 className="font-medium">Score: {score}</h1>
         </div>
       </div>
-      <div className="mt-20 flex items-center justify-center">
+      <div className="mt-5 flex items-center justify-center">
         <div className="flex h-24 w-24 items-center justify-center rounded-full border-8 border-[#c4a7e7] bg-[#e0def4] text-center shadow-lg shadow-black">
           <FaRegHandRock className="h-10 w-10" />
         </div>
