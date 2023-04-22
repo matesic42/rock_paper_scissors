@@ -11,7 +11,7 @@ const App = () => {
         </Link>
       </div>
       <div className="bg-white rounded-lg shadow-lg shadow-black ">
-        <Link href="/components/hardmode">
+        <Link href="/components/hard/hardmode">
           <p className="p-4 rounded bg-[#eb6f92]"> Hard Mode</p>
         </Link>
       </div>
