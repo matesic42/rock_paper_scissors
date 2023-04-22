@@ -3,7 +3,7 @@ import Link from "next/link";
 const App = () => {
   return (
     <div className="mx-auto flex h-screen max-w-screen-lg flex-col gap-5 items-center justify-center px-5">
-      <h1 className="text-3xl text-white ">Rock Paper Scissor </h1>
+      <h1 className="text-3xl text-white ">Rock Paper Scissors </h1>
       <div className="flex justify-between  text-white font-bold  gap-5 mt-10 ">
       <div className="bg-white rounded-lg shadow-lg shadow-black">
         <Link href="/components/easy/easymode">
